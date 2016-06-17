@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "repos": [{
+    "name": "configuration",
+    "branches": ["master"],
+    "url": "https://github.com/martinstreicher/configuration.git",
+    "expand_keys": false,
+    "include_branch_name": false,
+    "support_tags": true,
+    "hooks": [{
+      "type": "polling",
+      "interval": "1"
+    }]
+  }]
+}
