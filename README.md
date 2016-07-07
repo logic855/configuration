@@ -1,14 +1,14 @@
-Managing Configuration with *git*, *git2consul*, and *envconsul*
-================================================================
+Manage Application and System Configuration with *Consul*, *git*, *git2consul*, and *envconsul*
+=====================================================================================
 
-This repository describes and demonstrates how to use *Consul* and a set of
+This repository describes how to use *Consul* and a set of
 open source tools to manage the configuration of any number of hosts
-and services. While Consul has a number of features, this particular
+and services. While Consul has a number of powerful features, this particular
 purpose applies only its hierarchical, flexible key/value store.
 
 
 The Goal
------------
+--------
 
 Maintain critical system and application configuration with engineering rigor
 and automatically propagate and effectuate changes to any number of servers.
