@@ -449,7 +449,7 @@ system's package manager, such as *brew* or *apt.*
   using Git and envconsul.
 
 
-References (in alphabetical order)
+Technology References (in alphabetical order)
 ----------------------------------
 
 -   [a​pt](https://en.wikipedia.org/wiki/Advanced_Packaging_Tool)
@@ -468,5 +468,11 @@ References (in alphabetical order)
 
 -   [The go Programming Language](https://golang.org/doc/install)
 
+ 
+
+Further Reading
+---------------
+
+[12 Factor Applications with Consul](https://www.hashicorp.com/blog/twelve-factor-consul.html)
 
 [architecture]: architecture.png
